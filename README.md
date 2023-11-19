@@ -1,0 +1,2 @@
+# itsNaitik
+just for learning
